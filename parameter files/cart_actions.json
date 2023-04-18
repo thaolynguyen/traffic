@@ -1,0 +1,245 @@
+[  
+	{
+        "level": "0",
+		"levelname": "exit",
+		"ProbaToSelect":0.01,
+		"ProbaToClick": 0.00,
+		"NbActions":0,
+		"selector":"#exit",
+		"sublevels": []
+	},
+	{
+        "level": "0",
+		"levelname": "cart page",
+		"ProbaToSelect":0.99,
+		"ProbaToClick": 0.00,
+		"NbActions":0,
+		"selector":"#homepage",
+		"sublevels": [
+				{
+				"level": "1",
+				"levelname": "header",
+				"ProbaToSelect":0.01,
+				"ProbaToClick": 0.00,
+				"NbActions":0,
+				"selector":"#header",
+				"sublevels": [
+						{
+						"level": "2",
+						"levelname": "top",
+						"ProbaToSelect":0.10,
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector":"#top",
+						"sublevels": [
+									{
+									"level": "3",
+									"levelname": "connexion",	
+									"ProbaToSelect":0.50,
+									"ProbaToClick": 1.00,
+									"NbActions":1,
+									"selector": "#_desktop_user_info > div > a > span",	
+									"sublevels": []							
+									},
+									{
+									"level": "3",
+									"levelname": "cart",
+									"ProbaToSelect":0.50,
+									"ProbaToClick": 1.00,
+									"NbActions":1,
+									"selector": "#_desktop_cart > div > div > a > span.hidden-sm-down",	
+									"sublevels": []							
+									}
+						]
+						},
+						{
+						"level": "2",
+						"levelname": "category",
+						"ProbaToSelect":0.90,
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector":"#category",
+						"sublevels": [
+									{
+									"level": "3",
+									"levelname": "Vêtements",
+									"ProbaToSelect":0.40,
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-3 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Hommes",	
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-4 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Femmes",
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-5 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires",
+										"ProbaToSelect":0.20,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-11 > a",	
+										"sublevels": []						
+										}
+									]
+								},
+								{
+									"level": "3",
+									"levelname": "Accessoires",
+									"ProbaToSelect":0.40,
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-6 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Papeteries",
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-7 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires maison",
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-8 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires travail",
+										"ProbaToSelect":0.20,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-10 > a",	
+										"sublevels": []							
+										}
+									]
+								},		
+								{
+									"level": "3",
+									"levelname": "Alimentation",
+									"ProbaToSelect":0.20,
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-12 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Produits sucrés",
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-13 > a",		
+										"sublevels": []								
+										},
+										{
+										"level": "4",
+										"levelname": "Produits salés",
+										"ProbaToSelect":0.40,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-14 > a",	
+										"sublevels": []									
+										},
+										{
+										"level": "4",
+										"levelname": "Boissons",
+										"ProbaToSelect":0.20,
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-15 > a",		
+										"sublevels": []				
+										}
+									]
+								}
+							]
+						}
+					]
+			},	
+			{
+				"level": "1",
+				"levelname": "wrapper",
+				"ProbaToSelect":0.99,
+				"ProbaToClick": 0.00,
+				"NbActions":0,
+				"selector":"container",
+				"sublevels": [
+						{
+						"level": "2",
+						"levelname": "Panier",
+						"ProbaToSelect":0.90,
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector":"cart-item",
+						"sublevels": [
+								{
+								"level": "3",
+								"levelname": "more products",
+								"ProbaToSelect":0.25,
+								"ProbaToClick": 1.00,
+								"NbActions":1,
+								"selector": "#main > div > div.cart-grid-body.col-xs-12.col-lg-8 > div > div.cart-overview.js-cart > ul > li:nth-child({0}) > div > div.product-line-grid-right.product-line-actions.col-md-5.col-xs-12 > div > div.col-md-10.col-xs-6 > div > div.col-md-6.col-xs-6.qty > div > span.input-group-btn-vertical > button.btn.btn-touchspin.js-touchspin.js-increase-product-quantity.bootstrap-touchspin-up > i",
+								"sublevels": []
+								},
+								{
+								"level": "3",
+								"levelname": "delete product",
+								"ProbaToSelect":0.05,
+								"ProbaToClick": 1.00,
+								"NbActions":1,
+								"selector":"#main > div > div.cart-grid-body.col-xs-12.col-lg-8 > div > div.cart-overview.js-cart > ul > li:nth-child({0}) > div > div.product-line-grid-right.product-line-actions.col-md-5.col-xs-12 > div > div.col-md-2.col-xs-2.text-xs-right > div > a > i",
+								"sublevels": []
+								},
+								{
+								"level": "3",
+								"levelname": "no action",
+								"ProbaToSelect":0.70,
+								"ProbaToClick": 1.00,
+								"NbActions":1,
+								"selector":"",
+								"sublevels": []
+								}
+						]
+						},
+						{
+						"level": "2",
+						"levelname": "Continuer mes achats",
+						"ProbaToSelect":0.10,
+						"ProbaToClick": 1.00,
+						"NbActions":1,
+						"selector":"#main > div > div.cart-grid-body.col-xs-12.col-lg-8 > a",
+						"sublevels": []
+						}
+				]
+			},
+			{
+				"level": "1",
+				"levelname": "footer",
+				"ProbaToSelect":0.00,
+				"ProbaToClick": 0.00,
+				"NbActions":1,
+				"selector":"js-footer",
+				"sublevels": []
+			}
+	]
+	}
+]

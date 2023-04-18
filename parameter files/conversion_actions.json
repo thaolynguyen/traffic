@@ -1,0 +1,40 @@
+[  
+	{
+        "Page": "Modal",
+		"ProbaQuit": "0.10",
+		"ProbaAddProducts": "0.2",
+		"NbProductsToAdd": [1,2,3,4],
+		"ProbaNbProductsToAdd": [0.85,0.10,0.25,0.25],
+		"DropDownSelector":"#group_1",
+		"ProductsToAddSelector":"#add-to-cart-or-refresh > div.product-add-to-cart > div > div.qty > div > span.input-group-btn-vertical > button.btn.btn-touchspin.js-touchspin.bootstrap-touchspin-up > i",
+		"ProductToDeleteSelector":"",
+		"AddToCartSelector":"#add-to-cart-or-refresh > div.product-add-to-cart > div > div.add > button",
+		"QuitModalSelector":".modal-header>.close"
+	},
+	{
+        "Page": "Cart",
+		"ProbaQuit": "",
+        "ProbaAddProducts": "0.2",
+		"NbProductsToAdd": [1,2,3,4],
+		"ProbaNbProductsToAdd": [0.85,0.10,0.25,0.25],
+		"ProductsToAddSelector":"",
+		"ProductToDeleteSelector":"",
+		"CartValidationSelector": "#main > div > div.cart-grid-right.col-xs-12.col-lg-4 > div.card.cart-summary > div.checkout.cart-detailed-actions.card-block > div > a"
+	},
+	{
+        "Page": "ProductPage",
+		"ProbaBack": "0.4",
+		"ProbaAddProducts": "0.2",
+		"NbProductsToAdd": [1,2,3,4],
+		"ProbaNbProductsToAdd": [0.85,0.10,0.25,0.25],
+		"DropDownSelector":"#group_1",
+		"ProductsToAddSelector":"#add-to-cart-or-refresh > div.product-add-to-cart > div > div.qty > div > span.input-group-btn-vertical > button.btn.btn-touchspin.js-touchspin.bootstrap-touchspin-up > i",
+		"AddToCartSelector":"#add-to-cart-or-refresh > div.product-add-to-cart > div > div.add > button"
+	},
+	{
+        "Page": "ConfirmAddToCart",
+		"ProbaOrder": "0.6",
+		"OrderSelector":"#blockcart-modal > div > div > div.modal-body > div > div.col-md-7 > div > div > a",
+		"ContinueSelector":"#blockcart-modal > div > div > div.modal-body > div > div.col-md-7 > div > div > button"
+	}
+]

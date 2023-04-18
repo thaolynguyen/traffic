@@ -1,0 +1,15 @@
+[
+    {
+    "email": "rrespriget@avisia.fr",
+    "password": "Avisia4321!",
+    "account": "True",
+    "firstname": "Romain",
+    "lastname": "RESPRIGET",
+    "birthdate": "06/08/1990",
+    "address": "48 Avenue Victor Hugo",
+    "postcode": "75116",
+    "city": "Paris",
+    "size": "XL",
+    "gender": "H"
+    }
+]

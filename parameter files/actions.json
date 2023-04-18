@@ -1,0 +1,276 @@
+[{
+    "id": 0,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product thumbnail",
+    "selector": "div.products div[itemprop='itemListElement'] div.thumbnail-container a.thumbnail"
+},
+{
+    "id": 1,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product title",
+    "selector": "div.products div[itemprop='itemListElement'] div.product-description a"
+},
+{
+    "id": 2,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view",
+    "selector": "a.quick-view"
+},
+{
+    "id": 3,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view modal > Add to cart",
+    "selector": "div.product-actions div.add"
+},
+{
+    "id": 4,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view modal > Facebook",
+    "selector": "div.social-sharing li.facebook"
+},
+{
+    "id": 5,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view modal > Twitter",
+    "selector": "div.social-sharing li.twitter"
+},
+{
+    "id": 6,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view modal > Pinterest",
+    "selector": "div.social-sharing li.pinterest"
+},
+{
+    "id": 7,
+    "page": "homepage",
+    "path": "homepage > Popular product > Product quick view modal > Close popin",
+    "selector": "div.modal-header button.close"
+},
+{
+    "id": 8,
+    "page": "homepage",
+    "path": "homepage > Link all products",
+    "selector": "section.featured-products a.all-product-link"
+},
+{
+    "id": 9,
+    "page": "homepage",
+    "path": "homepage > Auto promotion Caroussel > Click",
+    "selector": "div#carousel img"
+},
+{
+    "id": 10,
+    "page": "category",
+    "path": "homepage > Auto promotion Caroussel > Click",
+    "selector": "div#carousel img"
+},
+{
+    "id": 11,
+    "page": "category",
+    "path": "Products list page > Products list > Click paging",
+    "selector": ".pagination ul.page-list a:not(.disabled)"
+},
+{
+    "id": 12,
+    "page": "category",
+    "path": "Products list page > Products list > Product thumbnail",
+    "selector": "#js-product-list > div.products.row div[itemprop='itemListElement'] div.thumbnail-container a.thumbnail"
+},
+{
+    "id": 13,
+    "page": "category",
+    "path": "Products list page > Products list > Product title",
+    "selector": "#js-product-list > div.products.row div[itemprop='itemListElement'] div.product-description a"
+},
+{
+    "id": 14,
+    "page": "category",
+    "path": "products list page > Products list > Product quick view",
+    "selector": "#js-product-list > div.products.row div[itemprop='itemListElement'] a.quick-view"
+},
+{
+    "id": 15,
+    "page": "category",
+    "path": "Products list page > Products list > Product quick view modal > Add to cart",
+    "selector": "div.product-actions div.add"
+},
+{
+    "id": 16,
+    "page": "category",
+    "path": "Products list page > Products list > Product quick view modal > Facebook",
+    "selector": "div.social-sharing li.facebook"
+},
+{
+    "id": 17,
+    "page": "category",
+    "path": "Products list page > Products list > Product quick view modal > Twitter",
+    "selector": "div.social-sharing li.twitter"
+},
+{
+    "id": 18,
+    "page": "category",
+    "path": "Products list page > Products list > Product quick view modal > Pinterest",
+    "selector": "div.social-sharing li.pinterest"
+},
+{
+    "id": 19,
+    "page": "category",
+    "path": "Products list page > Products list > Product quick view modal > Close popin",
+    "selector": "div.modal-header button.close"
+},
+{
+    "id": 20,
+    "page": "product",
+    "path": "Product page > Add to cart",
+    "selector": "div.product-information div.product-actions div.add"
+},
+{
+    "id": 21,
+    "page": "product",
+    "path": "Product page > Add to cart > Modal > Continue purchase",
+    "selector": "div.product-information #blockcart-modal button.btn-secondary"
+},
+{
+    "id": 22,
+    "page": "product",
+    "path": "Product page > Add to cart > Modal > Order",
+    "selector": "div.product-information #blockcart-modal a.btn-primary"
+},
+{
+    "id": 23,
+    "page": "product",
+    "path": "Product page > Add to cart > Modal > Close",
+    "selector": "div.product-information #blockcart-modal button.close"
+},
+{
+    "id": 24,
+    "page": "product",
+    "path": "Product page > Product thumbnail > Large image",
+    "selector": "div.hidden-sm-down[data-toggle='modal']"
+},
+{
+    "id": 25,
+    "page": "product",
+    "path": "Product page > Product thumbnail > Small image",
+    "selector": "div.js-qv-mask li.thumb-container"
+},
+{
+    "id": 26,
+    "page": "product",
+    "path": "Product page > Product thumbnail > Full screen image",
+    "selector": "#product-modal li.thumb-container img"
+},
+{
+    "id": 27,
+    "page": "product",
+    "path": "Product page > Facebook",
+    "selector": "div.product-information div.social-sharing li.facebook"
+},
+{
+    "id": 28,
+    "page": "product",
+    "path": "Product page > Twitter",
+    "selector": "div.product-information div.social-sharing li.twitter"
+},
+{
+    "id": 29,
+    "page": "product",
+    "path": "Product page > Pinterest",
+    "selector": "div.product-information div.social-sharing li.pinterest"
+},
+{
+    "id": 30,
+    "page": "product",
+    "path": "Product page > Give a comment > Link access form",
+    "selector": "div#empty-product-comment button.btn-comment"
+},
+{
+    "id": 31,
+    "page": "product",
+    "path": "Product page > Give a comment > Form submited",
+    "selector": "div#post-product-comment-modal button.btn-comment"
+},
+{
+    "id": 32,
+    "page": "product",
+    "path": "Product page > Give a comment > Cancel form",
+    "selector": "div#post-product-comment-modal button.btn-comment-inverse"
+},
+{
+    "id": 33,
+    "page": "product",
+    "path": "Product page > Give a comment > close form",
+    "selector": "div#post-product-comment-modal button.close"
+},
+{
+    "id": 34,
+    "page": "product",
+    "path": "Product page > Give a comment > close form",
+    "selector": "div#post-product-comment-modal button.close"
+},
+{
+    "id": 35,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product thumbnail",
+    "selector": "div.products div[itemprop='itemListElement'] div.thumbnail-container a.thumbnail"
+},
+{
+    "id": 36,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product title",
+    "selector": "div.products div[itemprop='itemListElement'] div.product-description a"
+},
+{
+    "id": 37,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view",
+    "selector": "div[itemprop='itemListElement'] a.quick-view"
+},
+{
+    "id": 38,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view modal > Add to cart",
+    "selector": "div.product-actions div.add"
+},
+{
+    "id": 39,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view modal > Facebook",
+    "selector": "div.social-sharing li.facebook"
+},
+{
+    "id": 40,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view modal > Twitter",
+    "selector": "div.social-sharing li.twitter"
+},
+{
+    "id": 41,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view modal > Pinterest",
+    "selector": "div.social-sharing li.pinterest"
+},
+{
+    "id": 42,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Product quick view modal > Close popin",
+    "selector": "div[id^='quickview-modal'] div.modal-header button.close"
+},
+{
+    "id": 43,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Add to cart > Modal > Continue purchase",
+    "selector": "#blockcart-modal button.btn-secondary"
+},
+{
+    "id": 44,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Add to cart > Modal > Order",
+    "selector": "#blockcart-modal a.btn-primary"
+},
+{
+    "id": 45,
+    "page": "product",
+    "path": "Product page > Cross sell based on others customers > Add to cart > Modal > Close",
+    "selector": "#blockcart-modal button.close"
+}]

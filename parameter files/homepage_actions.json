@@ -1,0 +1,375 @@
+[  
+	{
+        "level": "0",
+		"levelname": "exit",
+		"ProbaToSelect":0.00,
+		"ClickableLinks": "False",
+		"ProbaToClick": 0.00,
+		"NbActions":0,
+		"selector":"#exit",
+		"sublevels": []
+	},
+	{
+        "level": "0",
+		"levelname": "homepage",
+		"ProbaToSelect":1.00,
+		"ClickableLinks": "False",
+		"ProbaToClick": 0.00,
+		"NbActions":0,
+		"selector":"#homepage",
+		"sublevels": [
+				{
+				"level": "1",
+				"levelname": "header",
+				"ProbaToSelect":0.50,
+				"ClickableLinks": "False",
+				"ProbaToClick": 0.00,
+				"NbActions":0,
+				"selector":"#header",
+				"sublevels": [
+						{
+						"level": "2",
+						"levelname": "top",
+						"ProbaToSelect":0.15,
+						"ClickableLinks": "False",
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector":"#top",
+						"sublevels": [
+									{
+									"level": "3",
+									"levelname": "connexion",	
+									"ProbaToSelect":0.90,
+									"ClickableLinks": "True",
+									"ProbaToClick": 1.00,
+									"NbActions":1,
+									"selector": "#_desktop_user_info > div > a > span",	
+									"sublevels": []							
+									},
+									{
+									"level": "3",
+									"levelname": "cart",
+									"ProbaToSelect":0.10,
+									"ClickableLinks": "True",
+									"ProbaToClick": 1.00,
+									"NbActions":1,
+									"selector": "#_desktop_cart > div > div > a > span.hidden-sm-down",	
+									"sublevels": []							
+									}
+						]
+						},
+						{
+						"level": "2",
+						"levelname": "category",
+						"ProbaToSelect":0.85,
+						"ClickableLinks": "False",
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector":"#category",
+						"sublevels": [
+									{
+									"level": "3",
+									"levelname": "Vêtements",
+									"ProbaToSelect":0.40,
+									"ClickableLinks": "True",
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-3 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Hommes",	
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-4 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Femmes",
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-5 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires",
+										"ProbaToSelect":0.20,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-11 > a",	
+										"sublevels": []						
+										}
+									]
+								},
+								{
+									"level": "3",
+									"levelname": "Accessoires",
+									"ProbaToSelect":0.40,
+									"ClickableLinks": "True",
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-6 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Papeteries",
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-7 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires maison",
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-8 > a",	
+										"sublevels": []							
+										},
+										{
+										"level": "4",
+										"levelname": "Accessoires travail",
+										"ProbaToSelect":0.20,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-10 > a",	
+										"sublevels": []							
+										}
+									]
+								},		
+								{
+									"level": "3",
+									"levelname": "Alimentation",
+									"ProbaToSelect":0.20,
+									"ClickableLinks": "True",
+									"ProbaToClick": 0.50,
+									"NbActions":1,
+									"selector": "#category-12 > a",
+									"sublevels": [
+										{
+										"level": "4",
+										"levelname": "Produits sucrés",
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-13 > a",		
+										"sublevels": []								
+										},
+										{
+										"level": "4",
+										"levelname": "Produits salés",
+										"ProbaToSelect":0.40,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-14 > a",	
+										"sublevels": []									
+										},
+										{
+										"level": "4",
+										"levelname": "Boissons",
+										"ProbaToSelect":0.20,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#category-15 > a",		
+										"sublevels": []				
+										}
+									]
+								}
+							]
+						}
+					]
+			},	
+			{
+				"level": "1",
+				"levelname": "wrapper",
+				"ProbaToSelect":0.50,
+				"ClickableLinks": "False",
+				"ProbaToClick": 0.00,
+				"NbActions":0,
+				"selector":"container",
+				"sublevels": [
+						{
+						"level": "2",
+						"levelname": "carroussel",
+						"ProbaToSelect":0.00,
+						"ClickableLinks": "False",
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector": "",
+						"sublevels": []
+						},
+						{
+						"level": "2",
+						"levelname": "popular products",
+						"ProbaToSelect":0.50,
+						"ClickableLinks": "False",
+						"ProbaToClick": 0.00,
+						"NbActions":0,
+						"selector": ".thumbnail-container.reviews-loaded>.thumbnail.product-thumbnail",
+						"sublevels": [
+								{
+								"level": "3",
+								"levelname": "PopularProduct1",
+								"ProbaToSelect":0.40,
+								"ClickableLinks": "True",
+								"ProbaToClick": 0.00,
+								"NbActions":0,
+								"selector": "#content > section > div > div:nth-child(1) > article > div > a > img",		
+								"sublevels": [
+										{
+										"level": "3",
+										"levelname": "QuickView1",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#content > section > div > div:nth-child(1) > article > div > div.highlighted-informations.no-variants.hidden-sm-down > a",
+										"sublevels": []								
+										},
+										{
+										"level": "3",
+										"levelname": "Product1",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":1,
+										"selector": "#content > section > div > div:nth-child(1) > article > div > a > img",	
+										"sublevels": []								
+										}
+										]								
+								},
+								{
+								"level": "3",
+								"levelname": "PopularProduct2",
+								"ProbaToSelect":0.20,
+								"ClickableLinks": "True",
+								"ProbaToClick": 0.00,
+								"NbActions":0,
+								"selector": "#content > section > div > div:nth-child(2) > article > div > a > img",	
+								"sublevels": [
+										{
+										"level": "3",
+										"levelname": "QuickView2",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#content > section > div > div:nth-child(2) > article > div > div.highlighted-informations.no-variants.hidden-sm-down > a",		
+										"sublevels": []								
+										},
+										{
+										"level": "3",
+										"levelname": "Product2",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":1,
+										"selector": "#content > section > div > div:nth-child(2) > article > div > a > img",	
+										"sublevels": []								
+										}
+										]								
+								},
+								{
+								"level": "3",
+								"levelname": "PopularProduct3",
+								"ProbaToSelect":0.20,
+								"ClickableLinks": "True",
+								"ProbaToClick": 0.00,
+								"NbActions":0,
+								"selector": "#content > section > div > div:nth-child(3) > article > div > a > img",	
+								"sublevels": [
+										{
+										"level": "3",
+										"levelname": "QuickView3",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#content > section > div > div:nth-child(3) > article > div > div.highlighted-informations.no-variants.hidden-sm-down > a",		
+										"sublevels": []								
+										},
+										{
+										"level": "3",
+										"levelname": "Product3",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":1,
+										"selector": "#content > section > div > div:nth-child(3) > article > div > a > img",	
+										"sublevels": []								
+										}
+										]				
+								},
+								{
+								"level": "3",
+								"levelname": "PopularProduct4",
+								"ProbaToSelect":0.20,
+								"ClickableLinks": "True",
+								"ProbaToClick": 0.00,
+								"NbActions":0,
+								"selector": "#content > section > div > div:nth-child(4) > article > div > a > img",	
+								"sublevels": [
+										{
+										"level": "3",
+										"levelname": "QuickView4",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":2,
+										"selector": "#content > section > div > div:nth-child(4) > article > div > div.highlighted-informations.no-variants.hidden-sm-down > a",		
+										"sublevels": []								
+										},
+										{
+										"level": "3",
+										"levelname": "Product4",
+										"ProbaToSelect":0.50,
+										"ClickableLinks": "True",
+										"ProbaToClick": 1.00,
+										"NbActions":1,
+										"selector": "#content > section > div > div:nth-child(4) > article > div > a > img",	
+										"sublevels": []								
+										}
+										]			
+								}
+							]
+						},
+						{
+						"level": "2",
+						"levelname": "all products",
+						"ProbaToSelect":0.50,
+						"ClickableLinks": "True",
+						"ProbaToClick": 1.00,
+						"NbActions":1,
+						"selector": "#content > section > a",
+						"sublevels": []
+						}
+					]
+			},
+			{
+				"level": "1",
+				"levelname": "footer",
+				"ProbaToSelect":0.00,
+				"ClickableLinks": "False",
+				"ProbaToClick": 0.00,
+				"NbActions":1,
+				"selector":"js-footer",
+				"sublevels": []
+			}
+	]
+	}
+]

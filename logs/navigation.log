@@ -1,0 +1,337 @@
+2023-04-17 13:55:21,541 INFO: NAVIGATION START
+2023-04-17 13:55:26,903 INFO: Page : Homepage
+2023-04-17 13:55:26,903 INFO: Page1 - NEXT ACTION : Continue on page Homepage
+2023-04-17 13:55:26,903 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-17 13:55:26,903 INFO: Step0 : homepage >> continue
+2023-04-17 13:55:26,919 INFO: Step1 : homepage >> continue
+2023-04-17 13:55:26,919 INFO: Step2 : wrapper >> stop
+2023-04-17 13:55:26,931 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-17 13:55:26,931 INFO: Step0 : popular products >> continue
+2023-04-17 13:55:27,754 INFO: Step1 : all products >> One action - Click
+2023-04-17 13:55:35,050 INFO: Page : Category
+2023-04-17 13:55:35,050 INFO: Page2 - NEXT ACTION : Continue on page Category
+2023-04-17 13:55:35,057 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/2-accueil
+2023-04-17 13:55:35,057 INFO: Step0 : category page >> continue
+2023-04-17 13:55:35,073 INFO: Step1 : category page >> continue
+2023-04-17 13:55:35,082 INFO: Step2 : header >> continue
+2023-04-17 13:55:35,094 INFO: Step3 : category >> continue
+2023-04-17 13:55:36,225 INFO: Step4 : Vêtements >> One action - Click
+2023-04-17 13:55:43,340 INFO: Page : Category
+2023-04-17 13:55:43,340 INFO: Page3 - NEXT ACTION : Continue on page Category
+2023-04-17 13:55:43,340 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/3-vetements
+2023-04-17 13:55:43,340 INFO: Step0 : category page >> continue
+2023-04-17 13:55:43,355 INFO: Step1 : category page >> continue
+2023-04-17 13:55:43,355 INFO: Step2 : wrapper >> stop
+2023-04-17 13:55:44,414 INFO: Product Page : navigation in wrapper
+2023-04-17 13:55:44,447 INFO: Click on Product10
+2023-04-17 13:55:48,669 INFO: Page : ProductPage
+2023-04-17 13:55:48,669 INFO: Page4 - NEXT ACTION : Continue on page ProductPage
+2023-04-17 13:55:48,669 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/accessoires/49-61-paire-de-chaussettes-bleus.html#/1-taille-s
+2023-04-17 13:55:48,669 INFO: Step0 : product page >> continue
+2023-04-17 13:55:48,686 INFO: Step1 : product page >> continue
+2023-04-17 13:55:48,701 INFO: Step2 : header >> continue
+2023-04-17 13:55:48,701 INFO: Step3 : category >> continue
+2023-04-17 13:55:49,437 INFO: Step4 : Accessoires >> One action - Click
+2023-04-17 13:55:56,544 INFO: Page : Category
+2023-04-17 13:55:56,544 INFO: Page5 - NEXT ACTION : Continue on page Category
+2023-04-17 13:55:56,544 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/6-accessoires
+2023-04-17 13:55:56,544 INFO: Step0 : category page >> continue
+2023-04-17 13:55:56,562 INFO: Step1 : category page >> continue
+2023-04-17 13:55:56,562 INFO: Step2 : wrapper >> stop
+2023-04-17 13:55:56,594 INFO: Product Page : navigation in wrapper
+2023-04-17 13:55:56,605 INFO: Click on Product11
+2023-04-17 13:56:00,914 INFO: Page : ProductPage
+2023-04-17 13:56:00,914 INFO: Page6 - NEXT ACTION : Continue on page ProductPage
+2023-04-17 13:56:00,914 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/accessoires-travail/54-frigo-a-boissons-4490018398168.html
+2023-04-17 13:56:00,914 INFO: Step0 : product page >> continue
+2023-04-17 13:56:00,930 INFO: Step1 : product page >> continue
+2023-04-17 13:56:00,930 INFO: Step2 : wrapper >> stop
+2023-04-17 13:56:02,070 INFO: FRIGO � BOISSONS: No action >> Add to cart
+2023-04-17 13:56:03,488 INFO: Page : ConfirmAddToCart
+2023-04-17 13:56:03,488 INFO: Page7 - NEXT ACTION : Continue on page ConfirmAddToCart
+2023-04-17 13:56:04,237 INFO: Order button
+2023-04-17 13:56:04,246 INFO: Page : Cart
+2023-04-17 13:56:04,246 INFO: Page8 - NEXT ACTION : Continue on page Cart
+2023-04-17 13:56:04,260 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/panier?action=show
+2023-04-17 13:56:04,261 INFO: Step0 : cart page >> continue
+2023-04-17 13:56:04,271 INFO: Step1 : cart page >> continue
+2023-04-17 13:56:04,271 INFO: Step2 : wrapper >> stop
+2023-04-17 13:56:04,327 INFO: Product0 : Frigo � boissons >> No action
+2023-04-17 13:56:04,887 INFO: Cart validated >> stop
+2023-04-17 13:56:04,979 INFO: Page : OrderPage
+2023-04-17 13:56:04,979 INFO: Page9 - NEXT ACTION : Continue on page OrderPage
+2023-04-17 13:56:15,011 INFO: Order confirmed >> Stop
+2023-04-17 13:56:15,019 INFO: Page : OrderConfirmation
+2023-04-17 13:56:15,019 INFO: Page10 - NEXT ACTION : Continue on page OrderConfirmation
+2023-04-17 13:56:15,019 INFO: Order confirmed >> NAVIGATION END
+2023-04-17 13:56:32,501 INFO: NAVIGATION START
+2023-04-17 13:56:37,854 INFO: Page : Homepage
+2023-04-17 13:56:37,854 INFO: Page1 - NEXT ACTION : Continue on page Homepage
+2023-04-17 13:56:37,854 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-17 13:56:37,854 INFO: Step0 : homepage >> continue
+2023-04-17 13:56:37,870 INFO: Step1 : homepage >> continue
+2023-04-17 13:56:37,870 INFO: Step2 : wrapper >> stop
+2023-04-17 13:56:37,883 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-17 13:56:37,883 INFO: Step0 : all products >> continue
+2023-04-17 13:56:37,883 INFO: Step1 : popular products >> continue
+2023-04-17 13:56:37,899 INFO: Step2 : PopularProduct4 >> continue
+2023-04-17 13:56:38,598 INFO: Step3 : QuickView4 >> Two actions - Click
+2023-04-17 13:56:42,805 INFO: Page : Modal
+2023-04-17 13:56:42,805 INFO: Page2 - NEXT ACTION : Continue on page Modal
+2023-04-17 13:56:43,911 INFO: PORTE BADGE BLEU : No action >> Add to cart
+2023-04-17 13:56:45,134 INFO: Page : Modal
+2023-04-17 13:56:45,134 INFO: Page3 - NEXT ACTION : Continue on page Modal
+2023-04-17 13:56:46,135 ERROR: An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".modal-body .h1"}
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0074DCE3+50899]
+	(No symbol) [0x006DE111]
+	(No symbol) [0x005E5588]
+	(No symbol) [0x006108F9]
+	(No symbol) [0x00610AFB]
+	(No symbol) [0x0063F902]
+	(No symbol) [0x0062B944]
+	(No symbol) [0x0063E01C]
+	(No symbol) [0x0062B6F6]
+	(No symbol) [0x00607708]
+	(No symbol) [0x0060886D]
+	GetHandleVerifier [0x009B3EAE+2566302]
+	GetHandleVerifier [0x009E92B1+2784417]
+	GetHandleVerifier [0x009E327C+2759788]
+	GetHandleVerifier [0x007E5740+672048]
+	(No symbol) [0x006E8872]
+	(No symbol) [0x006E41C8]
+	(No symbol) [0x006E42AB]
+	(No symbol) [0x006D71B7]
+	BaseThreadInitThunk [0x755F00F9+25]
+	RtlGetAppContainerNamedObjectPath [0x76ED7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76ED7B8E+238]
+
+2023-04-17 13:56:46,210 INFO: Page : ConfirmAddToCart
+2023-04-17 13:56:46,210 INFO: Page4 - NEXT ACTION : Continue on page ConfirmAddToCart
+2023-04-17 13:56:46,821 INFO: Order button
+2023-04-17 13:56:46,939 INFO: Page : Cart
+2023-04-17 13:56:46,939 INFO: Page5 - NEXT ACTION : Continue on page Cart
+2023-04-17 13:56:46,984 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/panier?action=show
+2023-04-17 13:56:46,984 INFO: Step0 : cart page >> continue
+2023-04-17 13:56:47,020 INFO: Step1 : cart page >> continue
+2023-04-17 13:56:47,020 INFO: Step2 : wrapper >> stop
+2023-04-17 13:56:47,075 INFO: Product0 : Porte badge bleu >> No action
+2023-04-17 13:56:47,799 INFO: Cart validated >> stop
+2023-04-17 13:56:47,810 INFO: Page : OrderPage
+2023-04-17 13:56:47,810 INFO: Page6 - NEXT ACTION : Continue on page OrderPage
+2023-04-17 13:56:57,498 INFO: Order confirmed >> Stop
+2023-04-17 13:56:57,510 INFO: Page : OrderConfirmation
+2023-04-17 13:56:57,510 INFO: Page7 - NEXT ACTION : Continue on page OrderConfirmation
+2023-04-17 13:56:57,511 INFO: Order confirmed >> NAVIGATION END
+2023-04-18 14:58:54,361 INFO: NAVIGATION START
+2023-04-18 14:59:02,622 INFO: Page : Homepage
+2023-04-18 14:59:02,622 INFO: Page1 - NEXT ACTION : Continue on page Homepage
+2023-04-18 14:59:02,625 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-18 14:59:02,627 INFO: Step0 : homepage >> continue
+2023-04-18 14:59:02,638 INFO: Step1 : homepage >> continue
+2023-04-18 14:59:02,641 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:02,644 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-18 14:59:02,644 INFO: Step0 : all products >> continue
+2023-04-18 14:59:04,165 INFO: Step1 : all products >> One action - Click
+2023-04-18 14:59:11,800 INFO: Page : Category
+2023-04-18 14:59:11,800 INFO: Page2 - NEXT ACTION : Continue on page Category
+2023-04-18 14:59:11,803 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/2-accueil
+2023-04-18 14:59:11,804 INFO: Step0 : category page >> continue
+2023-04-18 14:59:11,808 INFO: Step1 : category page >> continue
+2023-04-18 14:59:11,809 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:11,856 INFO: Product Page : navigation in wrapper
+2023-04-18 14:59:11,867 INFO: Click on ListElement4
+2023-04-18 14:59:19,259 INFO: Page : Category
+2023-04-18 14:59:19,259 INFO: Page3 - NEXT ACTION : Continue on page Category
+2023-04-18 14:59:19,262 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/2-accueil?page=2
+2023-04-18 14:59:19,263 INFO: Step0 : category page >> continue
+2023-04-18 14:59:19,267 INFO: Step1 : category page >> continue
+2023-04-18 14:59:19,268 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:19,281 INFO: Product Page : navigation in wrapper
+2023-04-18 14:59:19,378 INFO: Click on Product12
+2023-04-18 14:59:25,290 INFO: Page : ProductPage
+2023-04-18 14:59:25,292 INFO: Page4 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 14:59:25,312 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/35-avisia-lunette-3057795400121.html
+2023-04-18 14:59:25,314 INFO: Step0 : product page >> continue
+2023-04-18 14:59:25,320 INFO: Step1 : product page >> continue
+2023-04-18 14:59:25,322 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:26,425 INFO: PAIRE DE LUNETTES FUN SÉMINAIRE: No action >> Add to cart
+2023-04-18 14:59:28,644 INFO: Page : ProductPage
+2023-04-18 14:59:28,644 INFO: Page5 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 14:59:28,668 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/35-avisia-lunette-3057795400121.html
+2023-04-18 14:59:28,669 INFO: Step0 : product page >> continue
+2023-04-18 14:59:28,674 INFO: Step1 : product page >> continue
+2023-04-18 14:59:28,675 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:29,701 INFO: PAIRE DE LUNETTES FUN SÉMINAIRE: No action >> Add to cart
+2023-04-18 14:59:30,771 ERROR: An error occurred: Message: element click intercepted: Element <button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit">...</button> is not clickable at point (813, 416). Other element would receive the click: <div id="blockcart-modal" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: block;">...</div>
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+0   chromedriver                        0x0000000104ab5670 chromedriver + 4298352
+1   chromedriver                        0x0000000104aadbbc chromedriver + 4266940
+2   chromedriver                        0x00000001046e0758 chromedriver + 280408
+3   chromedriver                        0x0000000104723444 chromedriver + 554052
+4   chromedriver                        0x0000000104720e84 chromedriver + 544388
+5   chromedriver                        0x000000010471e63c chromedriver + 534076
+6   chromedriver                        0x000000010471d530 chromedriver + 529712
+7   chromedriver                        0x0000000104710428 chromedriver + 476200
+8   chromedriver                        0x000000010470fb90 chromedriver + 474000
+9   chromedriver                        0x0000000104754080 chromedriver + 753792
+10  chromedriver                        0x000000010470e2d0 chromedriver + 467664
+11  chromedriver                        0x000000010470f354 chromedriver + 471892
+12  chromedriver                        0x0000000104a756c4 chromedriver + 4036292
+13  chromedriver                        0x0000000104a79c64 chromedriver + 4054116
+14  chromedriver                        0x0000000104a802d8 chromedriver + 4080344
+15  chromedriver                        0x0000000104a7a970 chromedriver + 4057456
+16  chromedriver                        0x0000000104a518dc chromedriver + 3889372
+17  chromedriver                        0x0000000104a9925c chromedriver + 4182620
+18  chromedriver                        0x0000000104a993b4 chromedriver + 4182964
+19  chromedriver                        0x0000000104aa80f4 chromedriver + 4243700
+20  libsystem_pthread.dylib             0x000000019369606c _pthread_start + 148
+21  libsystem_pthread.dylib             0x0000000193690e2c thread_start + 8
+
+2023-04-18 14:59:30,805 INFO: Page : ConfirmAddToCart
+2023-04-18 14:59:30,805 INFO: Page6 - NEXT ACTION : Continue on page ConfirmAddToCart
+2023-04-18 14:59:31,920 INFO: Continue shopping button
+2023-04-18 14:59:39,115 INFO: Page : Category
+2023-04-18 14:59:39,116 INFO: Page7 - NEXT ACTION : Continue on page Category
+2023-04-18 14:59:39,122 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/2-accueil?page=2
+2023-04-18 14:59:39,123 INFO: Step0 : category page >> continue
+2023-04-18 14:59:39,131 INFO: Step1 : category page >> continue
+2023-04-18 14:59:39,132 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:39,146 INFO: Product Page : navigation in wrapper
+2023-04-18 14:59:39,155 INFO: Click on Product9
+2023-04-18 14:59:43,811 INFO: Page : ProductPage
+2023-04-18 14:59:43,812 INFO: Page8 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 14:59:43,820 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/41-44-avisia-veste-7376694269051.html#/1-taille-s
+2023-04-18 14:59:43,821 INFO: Step0 : product page >> continue
+2023-04-18 14:59:43,829 INFO: Step1 : product page >> continue
+2023-04-18 14:59:43,831 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:43,988 INFO: PULL À CAPUCHE GRIS SIZE XL: No action >> Add to cart
+2023-04-18 14:59:45,957 INFO: Page : ProductPage
+2023-04-18 14:59:45,957 INFO: Page9 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 14:59:45,970 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/41-45-avisia-veste-7376694269051.html#/2-taille-m
+2023-04-18 14:59:45,971 INFO: Step0 : product page >> continue
+2023-04-18 14:59:45,975 INFO: Step1 : product page >> continue
+2023-04-18 14:59:45,976 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:46,024 INFO: PULL À CAPUCHE GRIS SIZE XL: No action >> Add to cart
+2023-04-18 14:59:47,094 ERROR: An error occurred: Message: element click intercepted: Element <button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit">...</button> is not clickable at point (813, 540). Other element would receive the click: <div id="blockcart-modal" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: block;">...</div>
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+0   chromedriver                        0x0000000104ab5670 chromedriver + 4298352
+1   chromedriver                        0x0000000104aadbbc chromedriver + 4266940
+2   chromedriver                        0x00000001046e0758 chromedriver + 280408
+3   chromedriver                        0x0000000104723444 chromedriver + 554052
+4   chromedriver                        0x0000000104720e84 chromedriver + 544388
+5   chromedriver                        0x000000010471e63c chromedriver + 534076
+6   chromedriver                        0x000000010471d530 chromedriver + 529712
+7   chromedriver                        0x0000000104710428 chromedriver + 476200
+8   chromedriver                        0x000000010470fb90 chromedriver + 474000
+9   chromedriver                        0x0000000104754080 chromedriver + 753792
+10  chromedriver                        0x000000010470e2d0 chromedriver + 467664
+11  chromedriver                        0x000000010470f354 chromedriver + 471892
+12  chromedriver                        0x0000000104a756c4 chromedriver + 4036292
+13  chromedriver                        0x0000000104a79c64 chromedriver + 4054116
+14  chromedriver                        0x0000000104a802d8 chromedriver + 4080344
+15  chromedriver                        0x0000000104a7a970 chromedriver + 4057456
+16  chromedriver                        0x0000000104a518dc chromedriver + 3889372
+17  chromedriver                        0x0000000104a9925c chromedriver + 4182620
+18  chromedriver                        0x0000000104a993b4 chromedriver + 4182964
+19  chromedriver                        0x0000000104aa80f4 chromedriver + 4243700
+20  libsystem_pthread.dylib             0x000000019369606c _pthread_start + 148
+21  libsystem_pthread.dylib             0x0000000193690e2c thread_start + 8
+
+2023-04-18 14:59:47,117 INFO: Page : ConfirmAddToCart
+2023-04-18 14:59:47,117 INFO: Page10 - NEXT ACTION : Continue on page ConfirmAddToCart
+2023-04-18 14:59:47,990 INFO: Order button
+2023-04-18 14:59:48,137 INFO: Page : Cart
+2023-04-18 14:59:48,137 INFO: Page11 - NEXT ACTION : Continue on page Cart
+2023-04-18 14:59:48,329 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/panier?action=show
+2023-04-18 14:59:48,330 INFO: Step0 : cart page >> continue
+2023-04-18 14:59:48,352 INFO: Step1 : cart page >> continue
+2023-04-18 14:59:48,353 INFO: Step2 : wrapper >> stop
+2023-04-18 14:59:48,392 INFO: Product0 : Paire de lunettes fun séminaire >> No action
+2023-04-18 14:59:48,414 INFO: Product1 : Pull à capuche gris >> No action
+2023-04-18 14:59:49,650 INFO: Cart validated >> stop
+2023-04-18 14:59:49,654 INFO: Page : OrderPage
+2023-04-18 14:59:49,654 INFO: Page12 - NEXT ACTION : Continue on page OrderPage
+2023-04-18 15:00:00,754 INFO: Order confirmed >> Stop
+2023-04-18 15:00:00,898 INFO: Page : OrderConfirmation
+2023-04-18 15:00:00,898 INFO: Page13 - NEXT ACTION : Continue on page OrderConfirmation
+2023-04-18 15:00:00,899 INFO: Order confirmed >> NAVIGATION END
+2023-04-18 15:02:37,011 INFO: NAVIGATION START
+2023-04-18 15:02:43,480 INFO: Page : Homepage
+2023-04-18 15:02:43,480 INFO: Page1 - NEXT ACTION : Continue on page Homepage
+2023-04-18 15:02:43,505 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-18 15:02:43,506 INFO: Step0 : homepage >> continue
+2023-04-18 15:02:43,513 INFO: Step1 : homepage >> continue
+2023-04-18 15:02:43,514 INFO: Step2 : wrapper >> stop
+2023-04-18 15:02:43,517 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/
+2023-04-18 15:02:43,518 INFO: Step0 : popular products >> continue
+2023-04-18 15:02:45,138 INFO: Step1 : all products >> One action - Click
+2023-04-18 15:02:52,961 INFO: Page : Category
+2023-04-18 15:02:52,962 INFO: Page2 - NEXT ACTION : Continue on page Category
+2023-04-18 15:02:52,968 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/2-accueil
+2023-04-18 15:02:52,971 INFO: Step0 : category page >> continue
+2023-04-18 15:02:52,979 INFO: Step1 : category page >> continue
+2023-04-18 15:02:52,981 INFO: Step2 : wrapper >> stop
+2023-04-18 15:02:53,000 INFO: Product Page : navigation in wrapper
+2023-04-18 15:02:53,111 INFO: Click on Product6
+2023-04-18 15:02:58,503 INFO: Page : ProductPage
+2023-04-18 15:02:58,504 INFO: Page3 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 15:02:58,513 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/33-avisia-chapeau-8410288420479.html
+2023-04-18 15:02:58,515 INFO: Step0 : product page >> continue
+2023-04-18 15:02:58,523 INFO: Step1 : product page >> continue
+2023-04-18 15:02:58,525 INFO: Step2 : wrapper >> stop
+2023-04-18 15:02:59,595 INFO: CHAPEAU PANAMA SÉMINAIRE: No action >> Add to cart
+2023-04-18 15:03:01,443 INFO: Page : ProductPage
+2023-04-18 15:03:01,443 INFO: Page4 - NEXT ACTION : Continue on page ProductPage
+2023-04-18 15:03:01,447 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/vetements/33-avisia-chapeau-8410288420479.html
+2023-04-18 15:03:01,448 INFO: Step0 : product page >> continue
+2023-04-18 15:03:01,452 INFO: Step1 : product page >> continue
+2023-04-18 15:03:01,453 INFO: Step2 : wrapper >> stop
+2023-04-18 15:03:02,526 INFO: CHAPEAU PANAMA SÉMINAIRE: No action >> Add to cart
+2023-04-18 15:03:03,623 ERROR: An error occurred: Message: element click intercepted: Element <button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit">...</button> is not clickable at point (813, 416). Other element would receive the click: <div id="blockcart-modal" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: block;">...</div>
+  (Session info: chrome=112.0.5615.121)
+Stacktrace:
+0   chromedriver                        0x0000000104d3d670 chromedriver + 4298352
+1   chromedriver                        0x0000000104d35bbc chromedriver + 4266940
+2   chromedriver                        0x0000000104968758 chromedriver + 280408
+3   chromedriver                        0x00000001049ab444 chromedriver + 554052
+4   chromedriver                        0x00000001049a8e84 chromedriver + 544388
+5   chromedriver                        0x00000001049a663c chromedriver + 534076
+6   chromedriver                        0x00000001049a5530 chromedriver + 529712
+7   chromedriver                        0x0000000104998428 chromedriver + 476200
+8   chromedriver                        0x0000000104997b90 chromedriver + 474000
+9   chromedriver                        0x00000001049dc080 chromedriver + 753792
+10  chromedriver                        0x00000001049962d0 chromedriver + 467664
+11  chromedriver                        0x0000000104997354 chromedriver + 471892
+12  chromedriver                        0x0000000104cfd6c4 chromedriver + 4036292
+13  chromedriver                        0x0000000104d01c64 chromedriver + 4054116
+14  chromedriver                        0x0000000104d082d8 chromedriver + 4080344
+15  chromedriver                        0x0000000104d02970 chromedriver + 4057456
+16  chromedriver                        0x0000000104cd98dc chromedriver + 3889372
+17  chromedriver                        0x0000000104d2125c chromedriver + 4182620
+18  chromedriver                        0x0000000104d213b4 chromedriver + 4182964
+19  chromedriver                        0x0000000104d300f4 chromedriver + 4243700
+20  libsystem_pthread.dylib             0x000000019369606c _pthread_start + 148
+21  libsystem_pthread.dylib             0x0000000193690e2c thread_start + 8
+
+2023-04-18 15:03:03,672 INFO: Page : ConfirmAddToCart
+2023-04-18 15:03:03,672 INFO: Page5 - NEXT ACTION : Continue on page ConfirmAddToCart
+2023-04-18 15:03:04,429 INFO: Order button
+2023-04-18 15:03:04,637 INFO: Page : Cart
+2023-04-18 15:03:04,637 INFO: Page6 - NEXT ACTION : Continue on page Cart
+2023-04-18 15:03:04,683 INFO: Current URL: https://avisia-tools.fr/site-formation-ecommerce/panier?action=show
+2023-04-18 15:03:04,684 INFO: Step0 : cart page >> continue
+2023-04-18 15:03:04,713 INFO: Step1 : cart page >> continue
+2023-04-18 15:03:04,714 INFO: Step2 : wrapper >> stop
+2023-04-18 15:03:04,745 INFO: Product0 : Chapeau Panama séminaire >> No action
+2023-04-18 15:03:06,407 INFO: Cart validated >> stop
+2023-04-18 15:03:06,437 INFO: Page : OrderPage
+2023-04-18 15:03:06,437 INFO: Page7 - NEXT ACTION : Continue on page OrderPage
+2023-04-18 15:03:18,869 INFO: Order confirmed >> Stop
+2023-04-18 15:03:18,988 INFO: Page : OrderConfirmation
+2023-04-18 15:03:18,989 INFO: Page8 - NEXT ACTION : Continue on page OrderConfirmation
+2023-04-18 15:03:18,990 INFO: Order confirmed >> NAVIGATION END

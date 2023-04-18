@@ -1,0 +1,67 @@
+[  
+    {
+        "PageID": "0",
+        "Page": "Homepage",
+		"PageType": "Homepage",
+        "URL":"https://avisia-tools.fr/site-formation-ecommerce/",
+		"file":"hp_actions"
+    },
+    {
+        "PageID": "1",
+        "Page": "Connexion",
+		"PageType": "Connexion",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/connexion?back=my-account",
+		"file":"connexion_actions"
+    },
+    {
+        "PageID": "3",
+        "Page": "Account",
+		"PageType": "Account",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/mon-compte",
+		"file":""
+    },
+    {
+        "PageID": "4",
+        "Page": "Category",
+		"PageType": "Category",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/{0}",
+		"file":"category_actions"
+    },
+    {
+        "PageID": "5",
+        "Page": "ProductPage",
+		"PageType": "ProductPage",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/{0}/{1}",
+		"file":"productpage_actions"
+    },
+    {
+        "PageID": "6",
+        "Page": "Cart",
+		"PageType": "Cart",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/panier?action=show",
+		"file":"cart_actions"
+    },
+    {
+        "PageID": "7",
+        "Page": "OrderPage",
+		"PageType": "OrderPage",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/commande",
+		"file":""
+    },
+    {
+        "PageID": "8",
+        "Page": "OrderConfirmation",
+		"PageType": "OrderConfirmation",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/confirmation-commande",
+		"file":""
+    },
+    {
+        "PageID": "9",
+        "Page": "Account",
+		"PageType": "Account",
+        "URL": "https://avisia-tools.fr/site-formation-ecommerce/mon-compte",
+		"file":""
+    }
+]
+
+
